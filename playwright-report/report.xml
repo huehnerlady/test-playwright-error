@@ -1,0 +1,14 @@
+<testsuites id="" name="" tests="4" failures="0" skipped="0" errors="0" time="6.648987999999999">
+<testsuite name="pages/playwright.spec.ts" timestamp="2024-08-02T10:13:27.946Z" hostname="Desktop Chrome" tests="2" failures="0" skipped="0" time="0.777" errors="0">
+<testcase name="should type in field labelWithoutSpace" classname="pages/playwright.spec.ts" time="0.357">
+</testcase>
+<testcase name="should type in field label with space" classname="pages/playwright.spec.ts" time="0.42">
+</testcase>
+</testsuite>
+<testsuite name="pages/playwright.spec.ts" timestamp="2024-08-02T10:13:27.946Z" hostname="Mobile Safari" tests="2" failures="0" skipped="0" time="0.885" errors="0">
+<testcase name="should type in field labelWithoutSpace" classname="pages/playwright.spec.ts" time="0.464">
+</testcase>
+<testcase name="should type in field label with space" classname="pages/playwright.spec.ts" time="0.421">
+</testcase>
+</testsuite>
+</testsuites>
